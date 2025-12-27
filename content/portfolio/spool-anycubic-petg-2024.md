@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool-anycubic-petg-2024.jpg"
+image = "img/portfolio/spool-anycubic-petg-2024.avif"
 showonlyimage = false
 date = "2025-03-03T10:15:49+0100"
 title = "Anycubic PETG "
@@ -14,6 +14,6 @@ title = "Anycubic PETG "
 - Hole diameter: 73mm
 <!--more-->
 
-![image](/img/portfolio/spool-anycubic-petg-2024.jpg)
+![image](/img/portfolio/spool-anycubic-petg-2024.avif)
 
 

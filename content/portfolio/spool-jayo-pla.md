@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_jayo_cardboard_pla.jpg"
+image = "img/portfolio/spool_jayo_cardboard_pla.avif"
 showonlyimage = false
 date="2024-05-02T13:37:00+0200"
 title = "Jayo PLA Cardboard spool"
@@ -15,5 +15,5 @@ title = "Jayo PLA Cardboard spool"
 * Hole Diameter: 54mm
 <!--more-->
 
-![image](/img/portfolio/spool_jayo_cardboard_pla.jpg)
+![image](/img/portfolio/spool_jayo_cardboard_pla.avif)
 

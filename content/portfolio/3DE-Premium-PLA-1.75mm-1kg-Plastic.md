@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/3DE.Premium.PLA.1.75mm.1kg.Plastic.jpg"
+image = "img/portfolio/3DE.Premium.PLA.1.75mm.1kg.Plastic.avif"
 showonlyimage = false
 date = "2024-04-30T21:30:00Z"
 title = "3DE Premium PLA (Plastic Spool)"
@@ -15,5 +15,5 @@ title = "3DE Premium PLA (Plastic Spool)"
 -   Hole Diameter: 52.9mm
 <!--more-->
 
-![image](/img/portfolio/3DE.Premium.PLA.1.75mm.1kg.Plastic.jpg)
+![image](/img/portfolio/3DE.Premium.PLA.1.75mm.1kg.Plastic.avif)
 

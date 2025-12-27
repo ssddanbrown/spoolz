@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_xzn_petg.jpg"
+image = "img/portfolio/spool_xzn_petg.avif"
 showonlyimage = false
 date="2025-08-07"
 title = "XZN PETG 1KG"
@@ -14,4 +14,4 @@ title = "XZN PETG 1KG"
 * Hole Diameter: 56 mm
 <!--more-->
 
-![image](/img/portfolio/spool_xzn_petg.jpg)
+![image](/img/portfolio/spool_xzn_petg.avif)

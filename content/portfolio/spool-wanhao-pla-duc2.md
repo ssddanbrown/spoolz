@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/wanhao_pla_white_duc1.jpg"
+image = "img/portfolio/wanhao_pla_white_duc1.avif"
 showonlyimage = false
 date = "2021-10-23T09:20:00Z"
 title = "Wanhao PLA White"
@@ -15,4 +15,4 @@ title = "Wanhao PLA White"
 * Hole Diameter: 50mm
 <!--more-->
 
-![image](/img/portfolio/wanhao_pla_white_duc1.jpg)
+![image](/img/portfolio/wanhao_pla_white_duc1.avif)

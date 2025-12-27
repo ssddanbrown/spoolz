@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/atomic_filament_pla.jpg"
+image = "img/portfolio/atomic_filament_pla.avif"
 showonlyimage = false
 date="Sat Nov  6 13:42:42 EDT 2021"
 title = "Atomic Filaments Rose Gold PLA"
@@ -15,5 +15,5 @@ title = "Atomic Filaments Rose Gold PLA"
 * Hole Diameter: 53 mm
 <!--more-->
 
-![image](/img/portfolio/atomic_filament_pla.jpg)
+![image](/img/portfolio/atomic_filament_pla.avif)
 

@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_prusa_prusament_petg.jpg"
+image = "img/portfolio/spool_prusa_prusament_petg.avif"
 showonlyimage = false
 date="Mon Apr 01 17:08:00 EST 2024"
 title = "Prusa Prusament PETG"
@@ -15,5 +15,5 @@ title = "Prusa Prusament PETG"
 * Hole Diameter: 51 mm
 <!--more-->
 
-![image](/img/portfolio/spool_prusa_prusament_petg.jpg)
+![image](/img/portfolio/spool_prusa_prusament_petg.avif)
 

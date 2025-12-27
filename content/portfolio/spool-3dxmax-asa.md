@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/3dxtech_asa_1kg.jpg"
+image = "img/portfolio/3dxtech_asa_1kg.avif"
 showonlyimage = false
 date="2023-07-23T18:00:00+0400"
 title = "3DXTECH ASA"
@@ -15,5 +15,5 @@ title = "3DXTECH ASA"
 * Hole Diameter: 52 mm
 <!--more-->
 
-![image](/img/portfolio/3dxtech_asa_1kg.jpg)
+![image](/img/portfolio/3dxtech_asa_1kg.avif)
 

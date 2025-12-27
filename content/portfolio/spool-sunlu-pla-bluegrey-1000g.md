@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_sunlu_pla_bluegrey_1000g.jpg"
+image = "img/portfolio/spool_sunlu_pla_bluegrey_1000g.avif"
 showonlyimage = false
 date="2025-08-09"
 title = "Sunlu PLA 1000g blue/grey spool"
@@ -14,4 +14,4 @@ title = "Sunlu PLA 1000g blue/grey spool"
 * Hole Diameter: 63 mm
 <!--more-->
 
-![image](/img/portfolio/spool_sunlu_pla_bluegrey_1000g.jpg
+![image](/img/portfolio/spool_sunlu_pla_bluegrey_1000g.avif)

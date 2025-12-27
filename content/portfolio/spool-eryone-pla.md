@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/eryone_pla_matt.jpg"
+image = "img/portfolio/eryone_pla_matt.avif"
 showonlyimage = false
 date="Mon Dec 13 17:01:16 EST 2021"
 title = "Eryone PLA Matte"
@@ -15,5 +15,5 @@ title = "Eryone PLA Matte"
 * Hole Diameter: 55 mm
 <!--more-->
 
-![image](/img/portfolio/eryone_pla_matt.jpg)
+![image](/img/portfolio/eryone_pla_matt.avif)
 

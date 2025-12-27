@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_dasfilament_pla.jpg"
+image = "img/portfolio/spool_dasfilament_pla.avif"
 showonlyimage = false
 date="Mon Apr 01 17:08:00 EST 2024"
 title = "DasFilament PLA"
@@ -15,5 +15,5 @@ title = "DasFilament PLA"
 * Hole Diameter: 52 mm
 <!--more-->
 
-![image](/img/portfolio/spool_dasfilament_pla.jpg)
+![image](/img/portfolio/spool_dasfilament_pla.avif)
 

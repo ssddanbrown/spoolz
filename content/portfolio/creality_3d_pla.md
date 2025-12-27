@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/creality_3d_pla.jpg"
+image = "img/portfolio/creality_3d_pla.avif"
 showonlyimage = false
 date = "2024-01-05T15:30:00Z"
 title = "Creality 3D PLA White"
@@ -15,5 +15,5 @@ title = "Creality 3D PLA White"
 -   Hole Diameter: 56mm
 <!--more-->
 
-![image](/img/portfolio/creality_3d_pla.jpg)
+![image](/img/portfolio/creality_3d_pla.avif)
 

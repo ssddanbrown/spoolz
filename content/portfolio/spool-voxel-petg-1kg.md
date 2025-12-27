@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/voxel_petg_1kg.jpg"
+image = "img/portfolio/voxel_petg_1kg.avif"
 showonlyimage = false
 date = "2025-12-11T01:01:01Z"
 title = "Voxel PETG+"
@@ -15,4 +15,4 @@ title = "Voxel PETG+"
 * Bed temp: 75-85C
 <!--more-->
 
-![image](/img/portfolio/voxel_petg_1kg.jpg)
+![image](/img/portfolio/voxel_petg_1kg.avif)

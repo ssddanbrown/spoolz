@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/protopasta_htpla_spool_matte_fiber_1.75mm_500g.jpg"
+image = "img/portfolio/protopasta_htpla_spool_matte_fiber_1.75mm_500g.avif"
 showonlyimage = false
 date="2023-07-18T18:00:00+0400"
 title = "Protopasta Matte Fiber HTPLA"
@@ -16,5 +16,5 @@ title = "Protopasta Matte Fiber HTPLA"
 * Recycleable Cardboard
 <!--more-->
 
-![image](/img/portfolio/protopasta_htpla_spool_matte_fiber_1.75mm_500g.jpg)
+![image](/img/portfolio/protopasta_htpla_spool_matte_fiber_1.75mm_500g.avif)
 

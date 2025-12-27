@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/polymaker_polyterra_pla_1kg.jpg"
+image = "img/portfolio/polymaker_polyterra_pla_1kg.avif"
 showonlyimage = false
 date = "2024-03-18T15:00:00Z"
 title = "Polymaker PolyTerra PLA (Cardboard Spool)"
@@ -15,5 +15,5 @@ title = "Polymaker PolyTerra PLA (Cardboard Spool)"
 -   Hole Diameter: 56mm
 <!--more-->
 
-![image](/img/portfolio/polymaker_polyterra_pla_1kg.jpg)
+![image](/img/portfolio/polymaker_polyterra_pla_1kg.avif)
 

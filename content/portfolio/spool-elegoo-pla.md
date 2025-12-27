@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_elegoo_pla.jpg"
+image = "img/portfolio/spool_elegoo_pla.avif"
 showonlyimage = false
 date="Mon Apr 01 17:08:00 EST 2024"
 title = "Elegoo PLA"
@@ -15,5 +15,5 @@ title = "Elegoo PLA"
 * Hole Diameter: 53 mm
 <!--more-->
 
-![image](/img/portfolio/spool_elegoo_pla.jpg)
+![image](/img/portfolio/spool_elegoo_pla.avif)
 

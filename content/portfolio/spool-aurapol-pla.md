@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_aurapol_pla.jpeg"
+image = "img/portfolio/spool_aurapol_pla.avif"
 showonlyimage = false
 date="2024-08-05T12:32:40+0200"
 title = "Aurapol PLA"
@@ -15,5 +15,5 @@ title = "Aurapol PLA"
 * Hole Diameter: 55 mm
 <!--more-->
 
-![image](/img/portfolio/spool_aurapol_pla.jpeg)
+![image](/img/portfolio/spool_aurapol_pla.avif)
 

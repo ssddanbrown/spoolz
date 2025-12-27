@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_fiberlogy_rounded.jpg"
+image = "img/portfolio/spool_fiberlogy_rounded.avif"
 showonlyimage = false
 date="Mon Feb 24 20:27:00 EST 2025"
 title = "fiberlogy rounded spool (old) easy pla"
@@ -16,7 +16,7 @@ title = "fiberlogy rounded spool (old) easy pla"
 * More weights: 319g, 321g, 322g, 325g, 329g
 <!--more-->
 
-![image](/img/portfolio/spool_fiberlogy_rounded.jpg)
+![image](/img/portfolio/spool_fiberlogy_rounded.avif)
 
-![image](/img/portfolio/schema_fiberlogy_rounded.png)
+![image](/img/portfolio/schema_fiberlogy_rounded.avif)
 

@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/kiwi3d_pla_likemarble_duc1.jpg"
+image = "img/portfolio/kiwi3d_pla_likemarble_duc1.avif"
 showonlyimage = false
 date = "2021-10-23T09:20:00Z"
 title = "Kiwi3D PLA Like-Marble"
@@ -15,5 +15,5 @@ title = "Kiwi3D PLA Like-Marble"
 * Hole Diameter: 60mm
 <!--more-->
 
-![image](/img/portfolio/kiwi3d_pla_likemarble_duc1.jpg)
+![image](/img/portfolio/kiwi3d_pla_likemarble_duc1.avif)
 

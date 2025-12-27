@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/kingroon_pla_1000g.jpg"
+image = "img/portfolio/kingroon_pla_1000g.avif"
 showonlyimage = false
 date="2025-12-14T15:51:52+0100"
 title = "Kingroon PLA 1000g"
@@ -15,5 +15,5 @@ title = "Kingroon PLA 1000g"
 * Hole Diameter: 54 mm
 <!--more-->
 
-![image](/img/portfolio/kingroon_pla_1000g.jpg)
+![image](/img/portfolio/kingroon_pla_1000g.avif)
 

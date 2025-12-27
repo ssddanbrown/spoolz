@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_mika3d_pla_silk.jpg"
+image = "img/portfolio/spool_mika3d_pla_silk.avif"
 showonlyimage = false
 date="2025-08-07"
 title = "Mika3D Silk PLA 1KG"
@@ -14,4 +14,4 @@ title = "Mika3D Silk PLA 1KG"
 * Hole Diameter: 53 mm
 <!--more-->
 
-![image](/img/portfolio/spool_mika3d_pla_silk.jpg)
+![image](/img/portfolio/spool_mika3d_pla_silk.avif)

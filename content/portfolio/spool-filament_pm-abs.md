@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/filament_pm-asa.jpg"
+image = "img/portfolio/filament_pm-asa.avif"
 showonlyimage = false
 date = "2024-01-26T15:21:21+0100"
 title = "Filament PM ASA"
@@ -14,5 +14,5 @@ title = "Filament PM ASA"
 * Hole Diameter: 50mm
 <!--more-->
 
-![image](/img/portfolio/filament_pm-asa.jpg)
+![image](/img/portfolio/filament_pm-asa.avif)
 

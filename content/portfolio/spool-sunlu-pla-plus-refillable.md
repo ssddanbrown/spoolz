@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/Spool-Sunlu_PLA+_New_refillable-empty.jpg"
+image = "img/portfolio/Spool-Sunlu_PLA+_New_refillable-empty.avif"
 showonlyimage = false
 date = "2024-04-23T16:27:27Z"
 title = "SUNLU PLA + Refillable"
@@ -16,8 +16,8 @@ title = "SUNLU PLA + Refillable"
 - Hole diameter: 58mm
 <!--more-->
 
-![image](/img/portfolio/Spool-Sunlu_PLA+_New_refillable-empty.jpg)
+![image](/img/portfolio/Spool-Sunlu_PLA+_New_refillable-empty.avif)
 
-![image](/img/portfolio/Spool-Sunlu_PLA+_New_refillable-full.jpg)
+![image](/img/portfolio/Spool-Sunlu_PLA+_New_refillable-full.avif)
 
 

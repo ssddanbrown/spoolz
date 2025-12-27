@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_kingroon_pla.jpeg"
+image = "img/portfolio/spool_kingroon_pla.avif"
 showonlyimage = false
 date="2024-08-05T12:34:34+0200"
 title = "Kingroon PLA"
@@ -15,5 +15,5 @@ title = "Kingroon PLA"
 * Hole Diameter: 75 mm
 <!--more-->
 
-![image](/img/portfolio/spool_kingroon_pla.jpeg)
+![image](/img/portfolio/spool_kingroon_pla.avif)
 

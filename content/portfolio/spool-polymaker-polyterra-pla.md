@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_polymaker_polyterra_pla.jpeg"
+image = "img/portfolio/spool_polymaker_polyterra_pla.avif"
 showonlyimage = false
 date="2023-05-23T10:56:22+0200"
 title = "Polymaker PolyTerra PLA"
@@ -15,5 +15,5 @@ title = "Polymaker PolyTerra PLA"
 * Hole Diameter: 55 mm
 <!--more-->
 
-![image](/img/portfolio/spool_polymaker_polyterra_pla.jpeg)
+![image](/img/portfolio/spool_polymaker_polyterra_pla.avif)
 

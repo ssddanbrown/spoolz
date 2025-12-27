@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_overture_matte_pla.jpg"
+image = "img/portfolio/spool_overture_matte_pla.avif"
 showonlyimage = false
 date="Mon Apr 01 17:08:00 EST 2024"
 title = "Overture Matte PLA"
@@ -15,5 +15,5 @@ title = "Overture Matte PLA"
 * Hole Diameter: 56 mm
 <!--more-->
 
-![image](/img/portfolio/spool_overture_matte_pla.jpg)
+![image](/img/portfolio/spool_overture_matte_pla.avif)
 

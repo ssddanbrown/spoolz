@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_ultimaker_pla.jpg"
+image = "img/portfolio/spool_ultimaker_pla.avif"
 showonlyimage = false
 date="Mon May 24 17:23:00 EST 2023"
 title = "Ultimaker PLA"
@@ -15,5 +15,5 @@ title = "Ultimaker PLA"
 * Hole Diameter: 53 mm
 <!--more-->
 
-![image](/img/portfolio/spool_ultimaker_pla.jpg)
+![image](/img/portfolio/spool_ultimaker_pla.avif)
 

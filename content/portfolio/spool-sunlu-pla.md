@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_sunlu_pla.jpg"
+image = "img/portfolio/spool_sunlu_pla.avif"
 showonlyimage = false
 date = "2024-04-23T16:27:27Z"
 title = "SUNLU PLA"
@@ -15,5 +15,5 @@ title = "SUNLU PLA"
 * Bed temp: 50-65C
 <!--more-->
 
-![image](/img/portfolio/spool_sunlu_pla.jpg)
+![image](/img/portfolio/spool_sunlu_pla.avif)
 

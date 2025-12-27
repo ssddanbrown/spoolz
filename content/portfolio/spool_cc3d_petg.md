@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_cc3d_petg.jpg"
+image = "img/portfolio/spool_cc3d_petg.avif"
 showonlyimage = false
 date = "2025-03-03T10:29:59+0100"
 title = "CC3D PETG"
@@ -16,6 +16,6 @@ title = "CC3D PETG"
 * Hole Diameter at Filament: 82mm
 <!--more-->
 
-![image](/img/portfolio/spool_cc3d_petg.jpg)
+![image](/img/portfolio/spool_cc3d_petg.avif)
 
 

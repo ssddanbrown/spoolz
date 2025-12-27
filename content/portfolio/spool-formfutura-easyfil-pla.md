@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_formfutura_easyfil_pla.jpg"
+image = "img/portfolio/spool_formfutura_easyfil_pla.avif"
 showonlyimage = false
 date="2023-05-30T09:32:48+0200"
 title = "Formfutura EasyFil PLA"
@@ -15,5 +15,5 @@ title = "Formfutura EasyFil PLA"
 * Hole Diameter: 53 mm
 <!--more-->
 
-![image](/img/portfolio/spool_formfutura_easyfil_pla.jpg)
+![image](/img/portfolio/spool_formfutura_easyfil_pla.avif)
 

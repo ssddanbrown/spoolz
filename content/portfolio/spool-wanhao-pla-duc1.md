@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/wanhao_pla_grey_duc1.jpg"
+image = "img/portfolio/wanhao_pla_grey_duc1.avif"
 showonlyimage = false
 date = "2021-10-23T09:20:00Z"
 title = "Wanhao PLA Slate-Grey"
@@ -15,5 +15,5 @@ title = "Wanhao PLA Slate-Grey"
 * Hole Diameter: 50mm
 <!--more-->
 
-![image](/img/portfolio/wanhao_pla_grey_duc1.jpg)
+![image](/img/portfolio/wanhao_pla_grey_duc1.avif)
 

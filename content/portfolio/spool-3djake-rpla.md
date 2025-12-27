@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/3djake_rpla_cardboard_spool.jpg"
+image = "img/portfolio/3djake_rpla_cardboard_spool.avif"
 showonlyimage = false
 date="2023-04-25T13:31:27+0200"
 title = "3DJake rPLA Cardboard spool"
@@ -15,5 +15,5 @@ title = "3DJake rPLA Cardboard spool"
 * Hole Diameter: 56 mm
 <!--more-->
 
-![image](/img/portfolio/3djake_rpla_cardboard_spool.jpg)
+![image](/img/portfolio/3djake_rpla_cardboard_spool.avif)
 

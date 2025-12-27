@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool-ice_filaments-750g.jpg"
+image = "img/portfolio/spool-ice_filaments-750g.avif"
 showonlyimage = false
 date="2024-04-24T14:28:43+0200"
 title = "ICE Filaments PLA"
@@ -15,5 +15,5 @@ title = "ICE Filaments PLA"
 * Hole Diameter: 53 mm
 <!--more-->
 
-![image](/img/portfolio/spool-ice_filaments-750g.jpg)
+![image](/img/portfolio/spool-ice_filaments-750g.avif)
 

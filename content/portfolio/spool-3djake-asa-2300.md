@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool-3djake-asa-2300.jpg"
+image = "img/portfolio/spool-3djake-asa-2300.avif"
 showonlyimage = false
 date = "2025-03-04T10:49:07+0100"
 title = "3DJake ASA Black 2300g"
@@ -15,6 +15,6 @@ title = "3DJake ASA Black 2300g"
 * Hole Diameter: 53mm
 <!--more-->
 
-![image](/img/portfolio/spool-3djake-asa-2300.jpg)
+![image](/img/portfolio/spool-3djake-asa-2300.avif)
 
 

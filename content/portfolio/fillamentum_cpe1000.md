@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/fillamentum_cpe1000.jpg"
+image = "img/portfolio/fillamentum_cpe1000.avif"
 showonlyimage = false
 date = "2024-03-20T15:45:50+0100"
 title = "Fillamentum CPE HG100"
@@ -15,5 +15,5 @@ title = "Fillamentum CPE HG100"
 -   Hole Diameter: 53mm
 <!--more-->
 
-![image](/img/portfolio/fillamentum_cpe1000.jpg)
+![image](/img/portfolio/fillamentum_cpe1000.avif)
 

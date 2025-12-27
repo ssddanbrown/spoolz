@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/Alfawise_PLA_1_75mm_1kg_2.jpg"
+image = "img/portfolio/Alfawise_PLA_1_75mm_1kg_2.avif"
 showonlyimage = false
 date = "2024-04-30T22:00:00Z"
 title = "Alfawise PLA (Plastic Spool 2)"
@@ -15,5 +15,5 @@ title = "Alfawise PLA (Plastic Spool 2)"
 -   Hole Diameter: 57.2mm
 <!--more-->
 
-![image](/img/portfolio/Alfawise_PLA_1_75mm_1kg_2.jpg)
+![image](/img/portfolio/Alfawise_PLA_1_75mm_1kg_2.avif)
 

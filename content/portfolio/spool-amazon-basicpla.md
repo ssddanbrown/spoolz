@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/amazon_basic_pla.jpg"
+image = "img/portfolio/amazon_basic_pla.avif"
 showonlyimage = false
 date="2023-05-10T09:36:35+0200"
 title = "Amazon Basic PLA"
@@ -15,5 +15,5 @@ title = "Amazon Basic PLA"
 * Hole Diameter: 54 mm
 <!--more-->
 
-![image](/img/portfolio/amazon_basic_pla.jpg)
+![image](/img/portfolio/amazon_basic_pla.avif)
 

@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_sunlu_pla_250g.jpg"
+image = "img/portfolio/spool_sunlu_pla_250g.avif"
 showonlyimage = false
 date="2025-08-07"
 title = "Sunlu 250g PLA blue/grey molded plastic"
@@ -15,4 +15,4 @@ title = "Sunlu 250g PLA blue/grey molded plastic"
 * Hole Diameter: 52 mm
 <!--more-->
 
-![image](/img/portfolio/spool_sunlu_pla_250g.jpg)
+![image](/img/portfolio/spool_sunlu_pla_250g.avif)

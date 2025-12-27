@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/fusion_filaments_spool.jpg"
+image = "img/portfolio/fusion_filaments_spool.avif"
 showonlyimage = false
 date="Fri Nov 26 12:12:09 EST 2021"
 title = "Fusion Filaments Plutonic Purple ABS 2.0"
@@ -15,5 +15,5 @@ title = "Fusion Filaments Plutonic Purple ABS 2.0"
 * Hole Diameter: 53 mm
 <!--more-->
 
-![image](/img/portfolio/fusion_filaments_spool.jpg)
+![image](/img/portfolio/fusion_filaments_spool.avif)
 

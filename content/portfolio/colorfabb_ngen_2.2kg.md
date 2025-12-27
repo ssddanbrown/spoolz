@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/colorfabb_ngen_2.2kg.jpg"
+image = "img/portfolio/colorfabb_ngen_2.2kg.avif"
 showonlyimage = false
 date = "2024-03-18T15:00:00Z"
 title = "colorFabb nGen"
@@ -15,5 +15,5 @@ title = "colorFabb nGen"
 -   Hole Diameter: 52mm
 <!--more-->
 
-![image](/img/portfolio/colorfabb_ngen_2.2kg.jpg)
+![image](/img/portfolio/colorfabb_ngen_2.2kg.avif)
 

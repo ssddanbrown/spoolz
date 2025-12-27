@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/kvp_spool.jpg"
+image = "img/portfolio/kvp_spool.avif"
 showonlyimage = false
 date="Fri Nov 26 12:12:09 EST 2021"
 title = "KVP Stellar Black ABS"
@@ -15,5 +15,5 @@ title = "KVP Stellar Black ABS"
 * Hole Diameter: 53 mm
 <!--more-->
 
-![image](/img/portfolio/kvp_spool.jpg)
+![image](/img/portfolio/kvp_spool.avif)
 

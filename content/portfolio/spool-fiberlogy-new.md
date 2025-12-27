@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_fiberlogy_new.jpg"
+image = "img/portfolio/spool_fiberlogy_new.avif"
 showonlyimage = false
 date = "2025-03-03T14:17:28+0100"
 title = "Fiberlogy ASA"
@@ -14,7 +14,7 @@ title = "Fiberlogy ASA"
 * Hole Diameter: 54mm
 <!--more-->
 
-![image](/img/portfolio/spool_fiberlogy_new.jpg)
+![image](/img/portfolio/spool_fiberlogy_new.avif)
 
-![image](/img/portfolio/schema_fiberlogy_new.png)
+![image](/img/portfolio/schema_fiberlogy_new.avif)
 

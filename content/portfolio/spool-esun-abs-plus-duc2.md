@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/esun_abs_plus_black_duc2.jpg"
+image = "img/portfolio/esun_abs_plus_black_duc2.avif"
 showonlyimage = false
 date = "2021-10-23T09:20:00Z"
 title = "ESun ABS+ Black"
@@ -15,5 +15,5 @@ title = "ESun ABS+ Black"
 * Hole Diameter: 51mm
 <!--more-->
 
-![image](/img/portfolio/esun_abs_plus_black_duc2.jpg)
+![image](/img/portfolio/esun_abs_plus_black_duc2.avif)
 

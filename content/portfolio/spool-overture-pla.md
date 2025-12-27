@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_overture_pla.jpg"
+image = "img/portfolio/spool_overture_pla.avif"
 showonlyimage = false
 date="Mon Apr 01 17:08:00 EST 2024"
 title = "Overture PLA"
@@ -15,5 +15,5 @@ title = "Overture PLA"
 * Hole Diameter: 55 mm
 <!--more-->
 
-![image](/img/portfolio/spool_overture_pla.jpg)
+![image](/img/portfolio/spool_overture_pla.avif)
 

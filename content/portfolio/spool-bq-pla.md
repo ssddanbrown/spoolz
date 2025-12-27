@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/bq_pla.jpg"
+image = "img/portfolio/bq_pla.avif"
 showonlyimage = false
 date = "2024-01-26T15:15:01+0100"
 title = "bq PLA"
@@ -14,5 +14,5 @@ title = "bq PLA"
 * Hole Diameter: 44mm
 <!--more-->
 
-![image](/img/portfolio/bq_pla.jpg)
+![image](/img/portfolio/bq_pla.avif)
 

@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_generic_burnt_ti_pla.jpg"
+image = "img/portfolio/spool_generic_burnt_ti_pla.avif"
 showonlyimage = false
 date="2025-08-07"
 title = "Generic Burnt Titanium PLA 1KG"
@@ -14,4 +14,4 @@ title = "Generic Burnt Titanium PLA 1KG"
 * Hole Diameter: 54 mm
 <!--more-->
 
-![image](/img/portfolio/spool_generic_burnt_ti_pla.jpg)
+![image](/img/portfolio/spool_generic_burnt_ti_pla.avif)

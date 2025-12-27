@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/essentium_spool_scheme.png"
+image = "img/portfolio/essentium_spool_scheme.avif"
 showonlyimage = false
 date = "2021-10-23T09:20:00Z"
 title = "Essentium 5kg spool"
@@ -13,5 +13,5 @@ title = "Essentium 5kg spool"
 * Hole Diameter: 52.07 mm
 <!--more-->
 
-![image](/img/portfolio/essentium_spool_scheme.png)
+![image](/img/portfolio/essentium_spool_scheme.avif)
 

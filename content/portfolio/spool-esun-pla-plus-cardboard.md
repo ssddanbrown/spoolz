@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/esun_pla_plus_cardboard.jpg"
+image = "img/portfolio/esun_pla_plus_cardboard.avif"
 showonlyimage = false
 date = "2024-02-12T12:58:50+0100"
 title = "ESun PLA+ (cardboard spool)"
@@ -14,5 +14,5 @@ title = "ESun PLA+ (cardboard spool)"
 * Hole Diameter: 54mm
 <!--more-->
 
-![image](/img/portfolio/esun_pla_plus_cardboard.jpg)
+![image](/img/portfolio/esun_pla_plus_cardboard.avif)
 

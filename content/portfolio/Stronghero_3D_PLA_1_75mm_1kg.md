@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/Stronghero_3D_PLA_1_75mm_1kg.jpg"
+image = "img/portfolio/Stronghero_3D_PLA_1_75mm_1kg.avif"
 showonlyimage = false
 date = "2024-04-30T22:00:00Z"
 title = "Stronghero 3D PLA"
@@ -15,5 +15,5 @@ title = "Stronghero 3D PLA"
 -   Hole Diameter: 75mm
 <!--more-->
 
-![image](/img/portfolio/Stronghero_3D_PLA_1_75mm_1kg.jpg)
+![image](/img/portfolio/Stronghero_3D_PLA_1_75mm_1kg.avif)
 

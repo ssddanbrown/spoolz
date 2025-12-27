@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/formfutura_reform_rpla_0.75kg.jpg"
+image = "img/portfolio/formfutura_reform_rpla_0.75kg.avif"
 showonlyimage = false
 date = "2024-03-18T15:00:00Z"
 title = "FormFutura ReForm - rPLA (Cardboard Spool)"
@@ -16,5 +16,5 @@ title = "FormFutura ReForm - rPLA (Cardboard Spool)"
 -   Other weights: 155g (note the high variability)
 <!--more-->
 
-![image](/img/portfolio/formfutura_reform_rpla_0.75kg.jpg)
+![image](/img/portfolio/formfutura_reform_rpla_0.75kg.avif)
 

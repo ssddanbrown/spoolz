@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/prusa_petg_blacks.jpg"
+image = "img/portfolio/prusa_petg_blacks.avif"
 showonlyimage = false
 date = "2024-01-26T15:18:30+0100"
 title = "PETG Prusa Galaxy Black"
@@ -15,5 +15,5 @@ title = "PETG Prusa Galaxy Black"
 * Hole Diameter: 51mm
 <!--more-->
 
-![image](/img/portfolio/prusa_petg_blacks.jpg)
+![image](/img/portfolio/prusa_petg_blacks.avif)
 
